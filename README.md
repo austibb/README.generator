@@ -33,7 +33,7 @@
   
   ## Demo
 
-  ![video](video.mov)
+  ![video](video.gif)
 
   ## Usage
   
