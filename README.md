@@ -45,7 +45,7 @@
     
   ## Contributing
   
-  
+  Feel free to contribute to this project on a separate branch.
   
   ## Testing
   
